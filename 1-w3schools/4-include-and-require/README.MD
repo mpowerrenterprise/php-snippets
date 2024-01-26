@@ -2,7 +2,7 @@
 
 #### Example 1
 
-##### Home HTML
+##### home.html
 
 ```HTML
 <!DOCTYPE html>
@@ -24,7 +24,7 @@ and open the template in the editor.
 </html>
 ```
 
-##### Index PHP
+##### index.php
 
 ```PHP
 <!DOCTYPE html>
@@ -60,7 +60,7 @@ and open the template in the editor.
 </html>
 ```
 
-##### Foot PHP
+##### foot.php
 
 ```PHP
 <?php
@@ -69,12 +69,12 @@ echo date("h:i:s:A");
 
 ?>
 ```
-#### OutPut 
+#### Output 
 ![Example 4.1](../../0-media/4-1.png)
 
 #### Example 2
 
-##### Home HTML
+##### home.html
 
 ```HTML
 <!DOCTYPE html>
@@ -96,7 +96,7 @@ and open the template in the editor.
 </html>
 ```
 
-##### Index PHP
+##### index.php
 
 ```PHP
 <!DOCTYPE html>
@@ -129,7 +129,7 @@ and open the template in the editor.
 
 ```
 
-##### Foot PHP
+##### foot.php
 
 ```PHP
 <?php
@@ -142,12 +142,12 @@ echo '<a href="/home.html">Home</a> -
 
 ?>
 ```
-#### OutPut 
+#### Output 
 ![Example 4.2](../../0-media/4-2.gif)
 
 #### Example 3
 
-##### Home HTML
+##### home.html
 
 ```HTML
 <!DOCTYPE html>
@@ -170,7 +170,7 @@ and open the template in the editor.
 
 ```
 
-##### Index PHP
+##### index.php
 
 ```PHP
 <!DOCTYPE html>
@@ -211,7 +211,7 @@ and open the template in the editor.
 
 ```
 
-##### Var PHP
+##### var.php
 
 ```PHP
 <?php
@@ -223,12 +223,12 @@ $car4="Landover";
 
 ?>
 ```
-#### OutPut 
+#### Output 
 ![Example 4.3](../../0-media/4-3.png)
 
 #### Example 4
 
-##### Index PHP
+##### index.php
 
 ```PHP
 <!DOCTYPE html>
@@ -270,7 +270,7 @@ and open the template in the editor.
 
 ```
 
-##### Var PHP
+##### var.php
 
 ```PHP
 <?php
@@ -282,5 +282,5 @@ $car4="Maker";
 
 ?>
 ```
-#### OutPut 
+#### Output 
 ![Example 4.4](../../0-media/4-4.png)

@@ -2,7 +2,7 @@
 
 #### Example 1
 
-##### Index PHP
+##### index.php
 
 ```PHP
 <!DOCTYPE html>
@@ -42,7 +42,7 @@ and open the template in the editor.
 
 ```
 
-##### Upload PHP
+##### upload.php
 
 ```PHP
 
@@ -54,13 +54,13 @@ echo $_SESSION["name"];
 //session_unset() and session_destory() by using these methods we can delete session variables.
 ?>
 ```
-#### OutPut 
+#### Output 
 
 ![Example 9.1](../../0-media/9-1.png)
 
 #### Example 2
 
-##### Index PHP
+##### index.php
 
 ```PHP
 <!DOCTYPE html>
@@ -105,7 +105,7 @@ and open the template in the editor.
 
 ```
 
-##### Upload PHP
+##### upload.php
 
 ```PHP
 
@@ -119,13 +119,13 @@ echo $_SESSION["name"];
 
 ```
 
-#### OutPut 
+#### Output 
 
 ![Example 9.2](../../0-media/9-2.png)
 
 #### Example 3
 
-##### Index PHP
+##### index.php
 
 ```PHP
 <!DOCTYPE html>
@@ -163,7 +163,7 @@ and open the template in the editor.
 
 ```
 
-##### Upload PHP
+##### upload.php
 
 ```PHP
 
@@ -175,7 +175,7 @@ echo $_SESSION["name"];
 //session_unset() and session_destory() by using these methods we can delete session variables.
 ?>
 ```
-#### OutPut 
+#### Output 
 
 ![Example 9.3](../../0-media/9-3.png)
 

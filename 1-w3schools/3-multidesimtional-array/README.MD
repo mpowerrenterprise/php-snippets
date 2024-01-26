@@ -2,7 +2,7 @@
 
 #### Example 1
 
-##### Intex PHP
+##### index.php
 
 ```PHP
 <!DOCTYPE html>
@@ -42,12 +42,12 @@ and open the template in the editor.
 
 ```
 
-#### OutPut 
+#### Output 
 ![Example 3.1](../../0-media/3-1.png)
 
 #### Example 2
 
-##### Index PHP
+##### index.php
 
 ```PHP
 <!DOCTYPE html>
@@ -83,7 +83,7 @@ and open the template in the editor.
 
 #### Example 3
 
-##### Index PHP
+##### index.php
 
 ```PHP
 <!DOCTYPE html>

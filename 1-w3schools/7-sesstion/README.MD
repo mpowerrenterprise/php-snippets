@@ -2,7 +2,7 @@
 
 #### Example 1
 
-##### Index PHP
+##### index.php
 
 ```PHP
 <!DOCTYPE html>
@@ -45,7 +45,7 @@ session_start();
 
 ```
 
-##### Upload PHP
+##### upload.php
 
 ```PHP
 
@@ -57,6 +57,6 @@ echo $_SESSION["name"];
 //session_unset() and session_destory() by using these methods we can delete session variables.
 ?>
 ```
-#### OutPut 
+#### Output 
 ![Example 7.1](../../0-media/7-1.png)
 

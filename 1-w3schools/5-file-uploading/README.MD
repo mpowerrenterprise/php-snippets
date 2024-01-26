@@ -2,7 +2,7 @@
 
 #### Example 1
 
-##### Index PHP
+##### index.php
 
 ```HTML
 <!DOCTYPE html>
@@ -32,7 +32,7 @@ and open the template in the editor.
 
 ```
 
-##### Upload PHP
+##### upload.php
 
 ```PHP
 <?php
@@ -48,12 +48,12 @@ move_uploaded_file($_FILES["file1"]["tmp_name"],$anyfile);
 ?>
 
 ```
-#### OutPut 
+#### Output 
 ![Example 5.1](../../0-media/5-1.gif)
 
 #### Example 2
 
-##### Index PHP
+##### index.php
 
 ```HTML
 <!DOCTYPE html>
@@ -82,7 +82,7 @@ and open the template in the editor.
 
 ```
 
-##### Upload PHP
+##### upload.php
 
 ```PHP
 <?php
@@ -102,12 +102,12 @@ if($exten=='jpg'){//check if it jpg or not.
 
 ?>
 ```
-#### OutPut 
+#### Output 
 ![Example 5.2](../../0-media/5-2.gif)
 
 #### Example 3
 
-##### Index PHP
+##### index.php
 
 ```HTML
 <!DOCTYPE html>
@@ -137,7 +137,7 @@ and open the template in the editor.
 
 ```
 
-##### Upload PHP
+##### upload.php
 
 ```PHP
 <?php
@@ -172,12 +172,12 @@ if($_POST["subBtn1"]){
 
 ?>
 ```
-#### OutPut 
+#### Output 
 ![Example 5.3](../../0-media/5-3.gif)
 
 #### Example 4
 
-##### Index PHP
+##### index.php
 
 ```HTML
 <!DOCTYPE html>
@@ -206,7 +206,7 @@ and open the template in the editor.
 
 ```
 
-##### Upload PHP
+##### upload.php
 
 ```PHP
 <?php
@@ -244,12 +244,12 @@ if($_POST["subBtn1"]){
 
 ?>
 ```
-#### OutPut 
+#### Output 
 ![Example 5.4](../../0-media/5-4.gif)
 
 #### Example 5
 
-##### Index PHP
+##### index.php
 
 ```HTML
 <!DOCTYPE html>
@@ -278,7 +278,7 @@ and open the template in the editor.
 
 ```
 
-##### Upload PHP
+##### upload.php
 
 ```PHP
 <?php
@@ -336,12 +336,12 @@ if ($_POST["subBtn1"]) {
 }
 ?>
 ```
-#### OutPut 
+#### Output 
 ![Example 5.5](../../0-media/5-5.gif)
 
 #### Example 6
 
-##### Index PHP
+##### index.php
 
 ```HTML
 <!DOCTYPE html>
@@ -370,7 +370,7 @@ and open the template in the editor.
 
 ```
 
-##### Upload PHP
+##### upload.php
 
 ```PHP
 <?php
@@ -389,12 +389,12 @@ if($_FILES["file1"]["size"]>1000000){//This application olny allowed less than 1
 
 ?>
 ```
-#### OutPut 
+#### Output 
 ![Example 5.6](../../0-media/5-6.gif)
 
 #### Example 7
 
-##### Index PHP
+##### index.php
 
 ```PHP
 <!DOCTYPE html>
@@ -423,7 +423,7 @@ and open the template in the editor.
 
 ```
 
-##### Upload PHP
+##### upload.php
 
 ```PHP
 <?php
@@ -491,5 +491,5 @@ if($_POST["subBtn1"]){
 
 ?>
 ```
-#### OutPut 
+#### Output 
 ![Example 5.7](../../0-media/5-7.gif)

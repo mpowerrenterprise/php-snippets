@@ -2,7 +2,7 @@
 
 #### Example 1
 
-##### Index PHP
+##### index.php
 
 ```PHP
 <!DOCTYPE html>
@@ -51,12 +51,12 @@ setcookie($name,$value,time()+(86400*30),"/")// "/" this cookie is blonged to th
 </html>
 
 ```
-#### OutPut 
+#### Output 
 ![Example 6.1](../../0-media/6-1.png)
 
 #### Example 2
 
-##### Index PHP
+##### index.php
 
 ```PHP
 <!DOCTYPE html>
@@ -127,6 +127,6 @@ if($_SERVER["REQUEST_METHOD"]=="POST"){
 
 ```
 
-#### OutPut 
+#### Output 
 ![Example 6.2](../../0-media/6-2.gif)
 
