@@ -4,7 +4,7 @@
 
 #### Example 1
 
-##### Intex PHP
+##### index.php
 
 ```PHP
 <!Doctype html>
@@ -34,7 +34,7 @@
     
 </html>
 ```
-##### Welcome PHP
+##### welcome.php
 
 ```PHP
 
@@ -57,14 +57,15 @@ if($_SERVER["REQUEST_METHOD"]=="GET"){//checks if it has GET request.
 ?>
 
 ```
-#### OutPut 
+#### Output 
+
 ![Example 1.1](../../0-media/1-1.png)
 
 ### 2. Post
 
 #### Example 1
 
-##### Index PHP
+##### index.php
 
 ```PHP
 <!Doctype html>
@@ -95,7 +96,7 @@ if($_SERVER["REQUEST_METHOD"]=="GET"){//checks if it has GET request.
 </html>
 ```
 
-##### Welcome PHP
+##### welcome.php
 
 ```PHP
 <?php
@@ -118,13 +119,14 @@ if($_SERVER["REQUEST_METHOD"]=="POST"){//Checks has it got POST method.
 ?>
 ```
 #### Output
+
 ![Example 1.2](../../0-media/1-2.png)
 
 ### 3. Secure Form
 
 #### Example 1
 
-##### Index PHP
+##### index.php
 ```PHP
 <!DOCTYPE html>
 <html>
@@ -192,11 +194,12 @@ function test_dataInp($data){
 ```
 
 #### Output
+
 ![Example 1.3.1](../../0-media/1-3-1.png)
 
 #### Example 2
 
-##### Index PHP
+##### index.php
 
 ```PHP
 <!DOCTYPE html>
@@ -263,7 +266,7 @@ function test_dataInp($data){
     
 </html>
 ```
-##### PHP1 PHP
+##### php1.php
 
 ```PHP
 <?php
@@ -296,13 +299,14 @@ function test_dataInp($data){
 ?>
 ```
 #### Output
+
 ![Example 1.3.2](../../0-media/1-3-2.gif)
 
 ### 4. Form
 
 #### Example 1
 
-##### Index PHP
+##### index.php
 
 ```PHP
 <!DOCTYPE html>
@@ -336,7 +340,7 @@ function test_dataInp($data){
 
 </html>
 ```
-##### System PHP
+##### system.php
 
 ```PHP
 <?php
@@ -371,11 +375,12 @@ if($_SERVER['REQUEST_METHOD']=="POST"){
 ```
 
 #### Output
+
 ![Example 1.4.1](../../0-media/1-4-1.png)
 
 #### Example 2
 
-##### Index PHP
+##### index.php
 
 ```PHP
 <!DOCTYPE html>
@@ -474,11 +479,12 @@ if($_SERVER['REQUEST_METHOD']=="POST"){
 </html>
 ```
 #### Output
+
 ![Example 1.4.2](../../0-media/1-4-2.png)
 
 #### Example 3
 
-##### Index PHP
+##### index.php
 
 ```php
 <!DOCTYPE html>
@@ -589,11 +595,12 @@ if($_SERVER['REQUEST_METHOD']=="POST"){
 ```
 
 #### Output
+
 ![Example 1.4.3](../../0-media/1-4-3.png)
 
 #### Example 4
 
-##### Form System PHP
+##### formsystem.php
 
 ```PHP
 <?php
@@ -691,7 +698,7 @@ if($_SERVER['REQUEST_METHOD']=="POST"){
         
 ```
 
-##### Index PHP
+##### index.php
 
 ```PHP
 <!DOCTYPE html>
@@ -820,4 +827,5 @@ if($_SERVER['REQUEST_METHOD']=="POST"){
 ```
 
 #### Output
+
 ![Example 1.4.4](../../0-media/1-4-4.png)
