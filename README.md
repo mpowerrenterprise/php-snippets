@@ -1,4 +1,4 @@
-# PHP SNIPPETS
+# PHP Snippets
 
 ## Introduction
 
@@ -12,7 +12,7 @@ PHP is used in a variety of applications, including content management systems, 
 
 1. [W3Schools Snippets](1-w3schools/)
 
-# CONTACT
+# Contact
 
 ### Website: 
 
